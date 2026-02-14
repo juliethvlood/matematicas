@@ -48,3 +48,4 @@ document.getElementById("clear").addEventListener("click", function () {
   salida.textContent = "0";
   sub_salida.textContent = "";
 });
+// prueba 
