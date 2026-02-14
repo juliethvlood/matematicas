@@ -1,5 +1,5 @@
 function name(params) {
-    console.log("Hola");
+    console.log("Hola:");
 }
 
 function nomina(params) {
